@@ -1,4 +1,4 @@
-# Landing Page - SuperMart
+# Landing Page - SuperMercado
 
 ## Descrição
 
